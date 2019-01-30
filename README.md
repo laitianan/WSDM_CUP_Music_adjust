@@ -40,3 +40,6 @@ The versions of dependencies:
 - scipy: 0.19.0
 
 - Tensorflow 1.0.1
+
+
+特征分析.docx:特征分析
